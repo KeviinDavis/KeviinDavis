@@ -21,10 +21,9 @@
 <img src="https://camo.githubusercontent.com/68212e6f93549d4f66d09dd59231c96cd17e8a0e3bb0fb3c55a76d5e1a5f4f74/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d737461636b6f766572666c6f77">
 <img src="https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465">
 </p>
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=keviindavis&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=keviindavis&theme=dark&hide_border=false"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviindavis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=keviindavis&theme=swift&hide_border=false&include_all_commits=false&count_private=false"><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=keviindavis&theme=swift&hide_border=false"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviindavis&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>  
 
