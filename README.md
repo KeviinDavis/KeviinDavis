@@ -3,7 +3,7 @@
 
 <p>I'm Full Stack Web Developer from Maryland, USA living in Montreal, CAN.</p>
 
-<p>More about me: [kevindaviis.com]</p>
+<p>More about me: <a href="kevindaviis.com">kevindaviis.com</a></p>
 </p>
 <p align="center">
 <img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"> 
