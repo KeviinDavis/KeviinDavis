@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hey 👋!</h1>
+  <h1>Hey 👋🏾!</h1>
 
 <p>I'm Full Stack Web Developer from Maryland, USA living in Montreal, CAN.</p>
 
